@@ -1,0 +1,5 @@
+run program:
+    - python program.py inpdataX
+
+unittest:
+    - python mainclass.py
